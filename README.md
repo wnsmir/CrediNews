@@ -8,8 +8,8 @@
 - [프로젝트 목표](#프로젝트-목표)
 - [커밋 규칙](#커밋-규칙)
 ## 역할
--AI 조은채 PYTHON
--FE 유서영 REACT
+-AI 조은채 PYTHON<br>
+-FE 유서영 REACT<br>
 -BE 박준용 SPRING BOOT, MYSQL
 
 ## 프로젝트 목표
